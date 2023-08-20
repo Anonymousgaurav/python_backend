@@ -3,4 +3,5 @@
  Email : gaurav@python.com
  Password : python
 
- 3. Feature_003 => Build User API
+ 3. Feature_003 => Automatic documentation, Swagger implemented
+ 4. Feature_004 => User A   PI Model added
